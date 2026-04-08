@@ -1,4 +1,6 @@
 # sepln-paper-resources
 
-# Este repositorio contendrá el código fuente y la documentación asociados a un artículo actualmente en proceso de revisión en la revista SEPLN. El contenido será publicado de forma íntegra una vez finalice el proceso de evaluación y el manuscrito sea aceptado.
+- Anexo: matrices de confusión (<a href="https://github.com/cnn-nlp-lab/sepln-paper-resources/blob/main/Anexo%20A.%20Matrices%20confusión.pdf" target="_blank" title="Anexo A. Matrices confusión.pdf" >Anexo A. Matrices confusión.pdf </a>) 
+- Código fuente: El código fuente desarrollado como parte de este trabajo será publicado de forma íntegra una vez finalice el proceso de revisión por parte de la revista y el manuscrito sea aceptado.
+- Dataset: Debido a las consideraciones éticas asociadas al uso de información procedente de fuentes públicas, el dataset elaborado como parte de este trabajo no puede ser compartido públicamente en su estado actual. No obstante, se proporcionarán instrucciones que permitirán a otros investigadores generar un dataset similar al utilizado en este trabajo. Esto se hará, igualmente, una vez finalice el proceso de revisión por parte de la revista y el manuscrito sea aceptado.
 
